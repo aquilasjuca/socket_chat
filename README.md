@@ -38,7 +38,7 @@ Caso você ainda não tenha o Lua instalado, siga as instruções no [site ofici
 
 1. Clone este repositório para o seu ambiente local:
 
-        git clone 
+        git clone https://github.com/aquilasjuca/socket_chat.git
 
 
 2. Navegue até o diretório do projeto:
